@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Words Card</string>
+    <string name="speech_prompt">Say a word!</string>
+    <string name="speech_not_supported">Speech Recognition Not Supported!</string>
+    <string name="word_list_btn_label">Word List</string>
+</resources>
